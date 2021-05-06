@@ -29,7 +29,7 @@ url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://
 github_username:  fruityvince
 
 # Build settings
-theme: minima
+theme: jekyll-theme-leap-day
 plugins:
   - jekyll-feed
 
