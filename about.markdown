@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ce site repertorie un ensemble de liens que la communaute du channel discord [rigging-cfx france](https://discord.gg/eZHycgpe) se partage. N'hesitez pas a contribuer si vous voulez partager certaines ressources directement sur le discord
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This website lists some links and resources shared by the [rigging-cfx france](https://discord.gg/eZHycgpe) discord channel. Feel free to contribute if you want to share resources, directly on the discord channel
 
 [jekyll-organization]: https://github.com/jekyll
