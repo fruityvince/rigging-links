@@ -66,7 +66,9 @@ Here is a compilation of links shared by the members of the [rigging-cfx france 
 * [skwi](https://skwi.fr/blog/)
 * [Joels On Software](https://www.joelonsoftware.com/)
 * [Jon Yablonski (UX Designer)](https://jonyablonski.com/)
-* [Hackernoon](https://hackernoon.com/)=== Article ===
+* [Hackernoon](https://hackernoon.com/)
+
+## Article ##
 * [super() function in python raises a TypeError](https://thomas-cokelaer.info/blog/2011/09/382/)
 * [When calling super() in a derived class, can I pass in self.class?](https://stackoverflow.com/questions/18208683/when-calling-super-in-a-derived-class-can-i-pass-in-self-class)
 * [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)

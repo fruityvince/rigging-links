@@ -1,4 +1,4 @@
-I"ß<p>Here is a compilation of links shared by the members of the <a href="https://discord.gg/eZHycgpe">rigging-cfx france discord channel</a></p>
+I"¶<p>Here is a compilation of links shared by the members of the <a href="https://discord.gg/eZHycgpe">rigging-cfx france discord channel</a></p>
 
 <h2 id="programming">PROGRAMMING</h2>
 
@@ -70,7 +70,11 @@
   <li><a href="https://skwi.fr/blog/">skwi</a></li>
   <li><a href="https://www.joelonsoftware.com/">Joels On Software</a></li>
   <li><a href="https://jonyablonski.com/">Jon Yablonski (UX Designer)</a></li>
-  <li><a href="https://hackernoon.com/">Hackernoon</a>=== Article ===</li>
+  <li><a href="https://hackernoon.com/">Hackernoon</a></li>
+</ul>
+
+<h2 id="article">Article</h2>
+<ul>
   <li><a href="https://thomas-cokelaer.info/blog/2011/09/382/">super() function in python raises a TypeError</a></li>
   <li><a href="https://stackoverflow.com/questions/18208683/when-calling-super-in-a-derived-class-can-i-pass-in-self-class">When calling super() in a derived class, can I pass in self.class?</a></li>
   <li><a href="https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/">The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)</a></li>
@@ -79,13 +83,5 @@
   <li><a href="https://florimond.dev/en/posts/2018/08/python-mutable-defaults-are-the-source-of-all-evil/">Python Mutable Defaults Are The Source of All Evil</a></li>
   <li><a href="https://lawsofux.com/">Laws Of UX</a></li>
 </ul>
-
-<p>You can find the source code for Minima at GitHub:
-<a href="https://github.com/jekyll">jekyll</a> /
-<a href="https://github.com/jekyll/minima">minima</a></p>
-
-<p>You can find the source code for Jekyll at GitHub:
-<a href="https://github.com/jekyll">jekyll</a> /
-<a href="https://github.com/jekyll/jekyll">jekyll</a></p>
 
 :ET

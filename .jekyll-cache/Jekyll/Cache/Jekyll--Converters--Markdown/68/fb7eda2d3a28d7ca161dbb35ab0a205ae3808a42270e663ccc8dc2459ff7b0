@@ -1,0 +1,11 @@
+I"?<p>Certains elements peuvent meriter un partage, sans pour autant rester eternellement dans la liste des sites qu’on veut conserver. On peut donc les poster directement sous forme de billets de blog. De meme pour les trucs et astuces</p>
+
+<p>Pour publier un nouveau billet, il est indispensable de suivre la nomenclature suivante pour le nom de votre fichier :
+<code class="language-plaintext highlighter-rouge">YEAR-MONTH-DAY-title.MARKUP</code></p>
+
+<p><code class="language-plaintext highlighter-rouge">YEAR</code> correspond a l’annee (4 chiffres), <code class="language-plaintext highlighter-rouge">MONTH</code> et <code class="language-plaintext highlighter-rouge">DAY</code> sont tous les deux en 2 chiffres, et <code class="language-plaintext highlighter-rouge">MARKUP</code> est l’extension de fichier (attention, sur Windows, a bien afficher l’extension de fichier</p>
+
+<p>Pour tester votre site en local via Jekyll, lancez le service via un terminal git bash, puis, dans votre repo, lancez la commande <code class="language-plaintext highlighter-rouge">bundle exec jekyll serve --watch</code></p>
+
+<p>Plus d’informations sur Jekyll et comment le configurer peuvent se trouver sur <a href="https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages#hosting-on-github-pages-">ce site</a></p>
+:ET

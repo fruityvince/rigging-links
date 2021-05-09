@@ -1,29 +1,17 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Premier billet!"
 date:   2021-05-06 16:38:37 -0400
-categories: jekyll update
+categories: partage
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+Certains elements peuvent meriter un partage, sans pour autant rester eternellement dans la liste des sites qu'on veut conserver. On peut donc les poster directement sous forme de billets de blog. De meme pour les trucs et astuces
 
+Pour publier un nouveau billet, il est indispensable de suivre la nomenclature suivante pour le nom de votre fichier :
 `YEAR-MONTH-DAY-title.MARKUP`
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+`YEAR` correspond a l'annee (4 chiffres), `MONTH` et `DAY` sont tous les deux en 2 chiffres, et `MARKUP` est l'extension de fichier (attention, sur Windows, a bien afficher l'extension de fichier
 
-Jekyll also offers powerful support for code snippets:
+Pour tester votre site en local via Jekyll, lancez le service via un terminal git bash, puis, dans votre repo, lancez la commande `bundle exec jekyll serve --watch`
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Plus d'informations sur Jekyll et comment le configurer peuvent se trouver sur [ce site](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages#hosting-on-github-pages-)
