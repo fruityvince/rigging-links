@@ -1,4 +1,4 @@
-I"¶<p>Here is a compilation of links shared by the members of the <a href="https://discord.gg/eZHycgpe">rigging-cfx france discord channel</a></p>
+I"‰<p>Here is a compilation of links shared by the members of the <a href="https://discord.gg/eZHycgpe">rigging-cfx france discord channel</a></p>
 
 <h2 id="programming">PROGRAMMING</h2>
 
@@ -29,6 +29,13 @@
   <li><a href="https://doughellmann.com/posts/the-performance-impact-of-using-dict-instead-of-in-cpython-2-7-2/">The Performance Impact of Using dict() Instead of {}</a></li>
   <li><a href="https://lucumr.pocoo.org/2011/2/1/exec-in-python/">Be careful with exec and eval in Python</a></li>
   <li><a href="https://nedbatchelder.com/blog/201206/eval_really_is_dangerous.html">Be careful with exec and eval in Python (really!)</a></li>
+</ul>
+
+<h2 id="anatomy">ANATOMY</h2>
+
+<ul>
+  <li><a href="https://anatomy4sculptors.com/">Anatomy4Sculptors</a></li>
+  <li><a href="https://www.youtube.com/user/Anatomie3DLyon/videos">Anatomie 3D Lyon</a></li>
 </ul>
 
 <h2 id="qt">QT</h2>
@@ -74,6 +81,7 @@
 </ul>
 
 <h2 id="article">Article</h2>
+
 <ul>
   <li><a href="https://thomas-cokelaer.info/blog/2011/09/382/">super() function in python raises a TypeError</a></li>
   <li><a href="https://stackoverflow.com/questions/18208683/when-calling-super-in-a-derived-class-can-i-pass-in-self-class">When calling super() in a derived class, can I pass in self.class?</a></li>

@@ -36,6 +36,12 @@ Here is a compilation of links shared by the members of the [rigging-cfx france 
 * [Be careful with exec and eval in Python (really!)](https://nedbatchelder.com/blog/201206/eval_really_is_dangerous.html)
 
 
+## ANATOMY ## 
+
+* [Anatomy4Sculptors](https://anatomy4sculptors.com/)
+* [Anatomie 3D Lyon](https://www.youtube.com/user/Anatomie3DLyon/videos)
+* [Simplification de l'anatomie](https://www.youtube.com/watch?v=H38yRMdPqTM)
+
 ## QT ##
 
 * [PyQt. How to shoot yourself in the foot](http://enki-editor.org/2014/08/23/Pyqt_mem_mgmt.html)
@@ -69,6 +75,7 @@ Here is a compilation of links shared by the members of the [rigging-cfx france 
 * [Hackernoon](https://hackernoon.com/)
 
 ## Article ##
+
 * [super() function in python raises a TypeError](https://thomas-cokelaer.info/blog/2011/09/382/)
 * [When calling super() in a derived class, can I pass in self.class?](https://stackoverflow.com/questions/18208683/when-calling-super-in-a-derived-class-can-i-pass-in-self-class)
 * [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
