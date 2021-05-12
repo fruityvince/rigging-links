@@ -61,6 +61,7 @@ Here is a compilation of links shared by the members of the [rigging-cfx france 
 * [Regex Cheat Sheet](https://www.rexegg.com/regex-quickstart.html)
 * [pdf.io](https://pdf.io/)
 * [Desmos - Graphing calculator](https://www.desmos.com/calculator)
+* [Debuggex - Regular Expression Visualizer](https://www.debuggex.com/)
 
 ## PSYCHOLOGY ##
 
