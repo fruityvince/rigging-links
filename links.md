@@ -55,6 +55,10 @@ Here is a compilation of links shared by the members of the [rigging-cfx france 
 * [Scratchapixel](https://www.scratchapixel.com/index.php?redirect)
 * [Spatial Transformation Matrices](https://www.brainvoyager.com/bv/doc/UsersGuide/CoordsAndTransforms/SpatialTransformationMatrices.html)
 
+## FACE RIG ##
+
+* [FACS - A Visual Guidebook](https://imotions.com/blog/facial-action-coding-system/)
+
 ## TOOLS ##
 
 * [Paletton](https://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF)
