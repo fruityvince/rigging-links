@@ -35,6 +35,8 @@ Here is a compilation of links shared by the members of the [rigging-cfx france 
 * [Be careful with exec and eval in Python](https://lucumr.pocoo.org/2011/2/1/exec-in-python/)
 * [Be careful with exec and eval in Python (really!)](https://nedbatchelder.com/blog/201206/eval_really_is_dangerous.html)
 
+## BANK OF ANIM OR OTHERS ##
+[Mixamo (upload an obj, get an animated fbx with skeleton back)](https://www.mixamo.com/#/)
 
 ## ANATOMY ## 
 
