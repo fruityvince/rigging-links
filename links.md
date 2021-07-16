@@ -57,6 +57,13 @@ Here is a compilation of links shared by the members of the [rigging-cfx france 
 * [Scratchapixel](https://www.scratchapixel.com/index.php?redirect)
 * [Spatial Transformation Matrices](https://www.brainvoyager.com/bv/doc/UsersGuide/CoordsAndTransforms/SpatialTransformationMatrices.html)
 
+### ALGORITHMS ###
+* [Path Finding](https://qiao.github.io/PathFinding.js/visual/)
+
+### CURVES ###
+* [description of different curves (fr)](https://ufrsciencestech.u-bourgogne.fr/master1/mi1-tc5/MATH/michelucci/PROJETS_ETUDIANTS_MIGS_2008_9/CourbesParametrees_Dubief/Presentation.pdf)
+* [Pomax - everything about nurbs curves (I've forked it in case this dissapears)](https://pomax.github.io/bezierinfo/)
+
 ## FACE RIG ##
 
 * [FACS - A Visual Guidebook](https://imotions.com/blog/facial-action-coding-system/)
