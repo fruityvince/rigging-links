@@ -6,6 +6,24 @@ permalink: /links/
 
 Here is a compilation of links shared by the members of the [rigging-cfx france discord channel](https://discord.gg/eZHycgpe)
 
+# Table of Content # 
+- [PROGRAMMING](#programming)
+- [PYTHON](#python)
+- [BANK OF ANIM OR OTHERS](#bank-of-anim-or-others)
+- [ANATOMY](#anatomy)
+- [QT](#qt)
+- [MATHEMATICS](#mathematics)
+  * [ALGORITHMS](#algorithms)
+  * [CURVES](#curves)
+- [FACE RIG](#face-rig)
+- [SHADING](#shading)
+- [TOOLS](#tools)
+- [PSYCHOLOGY](#psychology)
+- [BLOGS](#blogs)
+- [ARTICLES](#articles)
+
+---------------------------
+
 
 ## PROGRAMMING ##
 
@@ -68,6 +86,11 @@ Here is a compilation of links shared by the members of the [rigging-cfx france 
 
 * [FACS - A Visual Guidebook](https://imotions.com/blog/facial-action-coding-system/)
 
+## SHADING ##
+
+* [Nicolas Bonnel - Cours donne a Central Lyon](https://www.youtube.com/watch?v=1HYhrx9bzP8&t=1536s)
+* [ShaderToy (site de creation de shading d'Inigo Quillez)](https://www.shadertoy.com/)
+
 ## TOOLS ##
 
 * [Paletton](https://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF)
@@ -88,7 +111,7 @@ Here is a compilation of links shared by the members of the [rigging-cfx france 
 * [Jon Yablonski (UX Designer)](https://jonyablonski.com/)
 * [Hackernoon](https://hackernoon.com/)
 
-## Article ##
+## ARTICLES ##
 
 * [super() function in python raises a TypeError](https://thomas-cokelaer.info/blog/2011/09/382/)
 * [When calling super() in a derived class, can I pass in self.class?](https://stackoverflow.com/questions/18208683/when-calling-super-in-a-derived-class-can-i-pass-in-self-class)
